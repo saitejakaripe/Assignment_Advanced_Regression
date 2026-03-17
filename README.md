@@ -23,5 +23,5 @@ This project explores advanced regression methods to solve a supervised learning
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## File Structure
+
 
